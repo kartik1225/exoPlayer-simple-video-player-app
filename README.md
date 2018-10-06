@@ -3,5 +3,5 @@ The reason behind using google's [ExoPlayer](https://github.com/google/ExoPlayer
 
 ## Some screen shoots
 
-![ExoPlayer app](https://github.com/kartik1225/exoPlayer-simple-video-player-app/blob/master/images/Screenshot_1538829687.png)
-![ExoPlayer app](https://github.com/kartik1225/exoPlayer-simple-video-player-app/blob/master/images/Screenshot_1538829668.png)
+![ExoPlayer app](https://github.com/kartik1225/exoPlayer-simple-video-player-app/blob/master/images/Screenshot_1538829687.png =250x)
+![ExoPlayer app](https://github.com/kartik1225/exoPlayer-simple-video-player-app/blob/master/images/Screenshot_1538829668.png =250x)
